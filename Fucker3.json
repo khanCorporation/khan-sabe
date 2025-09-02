@@ -1,6 +1,6 @@
 {
   "scan_date": "August 31, 2025 10:18 AM PKT",
-  "status": "suspicious",
+  "result": "suspicious",
   "thread_stack": [
     {"exe_name": "nvcontainer.exe", "pid": 4488, "status": "OK"},
     {"exe_name": "nvcontainer.exe", "pid": 4508, "status": "OK"},
@@ -8523,4 +8523,5 @@
     ]
   }
 }
+
 
