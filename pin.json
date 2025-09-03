@@ -2,7 +2,7 @@
   {
     "pin": "00654573",
     "used": true,
-    "scan": "false",
+    "scan": "true",
     "systemscan": "false",
     "expires_at": "2025-10-03T13:24:12.342Z",
     "used_at": "2025-09-03T13:24:38.338Z"
