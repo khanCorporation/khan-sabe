@@ -1,1 +1,10 @@
-[{"pin":"00859257","used":false,"scan":"false","systemscan":"false","expires_at":"2025-10-04T11:13:42.111Z"}]
+[
+  {
+    "pin": "00859257",
+    "used": true,
+    "scan": "false",
+    "systemscan": "false",
+    "expires_at": "2025-10-04T11:13:42.111Z",
+    "used_at": "2025-09-04T11:14:15.314Z"
+  }
+]
